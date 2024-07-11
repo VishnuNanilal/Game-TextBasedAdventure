@@ -43,6 +43,10 @@ public class GameController : MonoBehaviour
 
     public void TextEntered()
     {
+        if (string.IsNullOrWhiteSpace(userInput.text))
+        {
+            return;
+        }
         LogCurrentText();
         ProcessInput(userInput.text);
         userInput.ActivateInputField();
