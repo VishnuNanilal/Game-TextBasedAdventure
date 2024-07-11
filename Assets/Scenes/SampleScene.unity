@@ -2270,8 +2270,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   locationName: CauseWay
   description: Reaching the shore, the walls of an ancient fortification are carved
-    into the cliff face. At the top of thecliff a stone <b>chapel</b> looks out over
-    the sea.
+    into the cliff face. At the top of the cliff a stone <b>chapel</b> looks out
+    over the sea.
   connections:
   - {fileID: 1550897634}
   - {fileID: 372099890}
