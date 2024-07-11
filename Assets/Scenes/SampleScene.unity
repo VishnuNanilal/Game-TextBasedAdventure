@@ -472,7 +472,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   itemName: tapestry
-  description: a <b>thread worn tapestry<b>
+  description: a <b>thread worn tapestry</b>
   playerCanTake: 0
   itemEnabled: 1
   targetItem: {fileID: 0}
@@ -853,7 +853,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   connectionName: East
-  description: </b>East</b> returns to the Chapel knave.
+  description: <b>East</b> returns to the Chapel knave.
   location: {fileID: 1941897756}
   connectionEnabled: 1
 --- !u!1 &409946313
